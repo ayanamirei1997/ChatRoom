@@ -1,0 +1,26 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "A chatroom by node.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayanamirei1997/DOLLARS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "lan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayanamirei1997/DOLLARS/issues"
+  },
+  "homepage": "hhttps://github.com/ayanamirei1997/DOLLARS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
