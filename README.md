@@ -9,7 +9,7 @@ Welcome to : [DOLLARS](http://seele.moe:3003).
 
 ## Demo:  
 
-![](./image/1.png)
+![](./image/1.gif)
 
 ## Feature:
 - input your name
@@ -24,7 +24,7 @@ Welcome to : [DOLLARS](http://seele.moe:3003).
 
 - attract attention
 
-## Usage
+## Usage:
 - install dependencies
 ``` 
 npm install 
@@ -34,5 +34,5 @@ npm install
 node server.js 
 ```
 
-## License
+## License:
 MIT 
